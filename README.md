@@ -1,4 +1,4 @@
-# VendingMachine Decentralised Application 
+# Vending Machine Decentralised Application 
 A decentralized vending machine on a Ethereum-based blockchain; users are able to buy and then restock donuts using Ether. The following technology is utilized: **Truffle**, for developing and deploying smart contracts; **Web3.js**, handling the interactions with the blockchain; and **MetaMask** for wallet interactions. Smart contracts are deplyoed to the **Sepolia Ethereum Testnet**.
 
 
