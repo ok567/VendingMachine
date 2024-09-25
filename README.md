@@ -16,3 +16,5 @@ A decentralized vending machine on a Ethereum-based blockchain; users are able t
 - **Bulma CSS**: CSS framework for styling.
 - **MetaMask**: Ethereum wallet for interacting with the DApp.
 - **Sepolia Testnet**: Ethereum test network used for contract deployment.
+
+Inspired by Block Explorer
